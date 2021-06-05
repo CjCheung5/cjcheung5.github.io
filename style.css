@@ -1,6 +1,21 @@
-.circle {
-    width: 500px;
-    height: 500px;
-    border-radius: 50%;
-    background: black;
+
+.header-left{
+    width: 50%;
+    height: 100%;
+    background-color: grey;
+    text-align: center;
+}
+
+.header-right{
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    text-align: center;
+
+}
+
+.portfolio{
+    width: 100%;
+    height: auto;
+    background-color: black;
 }
